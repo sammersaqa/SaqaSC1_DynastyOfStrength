@@ -213,3 +213,12 @@ h1 {
   background-position: right center;
   z-index: -1;
 }
+
+/* ----------------------Stops Bank Robbery----------------------- */
+
+.bankstop {
+    background-image: url("/Assets/StopsBankRobbery.jpg");
+    background-repeat: no-repeat;
+    background-size: 50% 100%; 
+    background-position: right center;
+}
