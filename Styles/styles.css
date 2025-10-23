@@ -231,3 +231,12 @@ h1 {
     background-size: 100% 100%; 
 
 }
+
+/* ----------------------Good Ending----------------------- */
+
+.good {
+    background-image: url("/Assets/UniversalGoodEnding.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+
+}
