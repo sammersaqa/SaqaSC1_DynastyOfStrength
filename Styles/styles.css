@@ -167,3 +167,25 @@ body {
 
 
 
+
+/* ----------------Build a Death Ray Page------------------------ */
+
+.deathray-page {
+  background-image: url("/Assets/DeathrayBuiltImage.jpg");
+  /* adjust path */
+  background-repeat: no-repeat;
+  background-size: 50% 100%;
+  position: relative;
+  background-position: right center;
+  z-index: -1;
+}
+
+.dontstopcar-page {
+  background-image: url("/Assets/SavingDayUntilRetired\(nuetral-ending\).jpg");
+  /* adjust path */
+  background-repeat: no-repeat;
+  background-size: 50% 100%;
+  position: relative;
+  background-position: right center;
+  z-index: -1;
+}
