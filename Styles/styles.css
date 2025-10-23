@@ -70,7 +70,7 @@ body {
   color: white;
   font-size: 1.4rem;
   line-height: 1.6;
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family:monospace;
   box-shadow: 0 -5px 20px rgba(0, 0, 0, 0.6);
   z-index: 2;
 }
