@@ -213,3 +213,15 @@ h1 {
   background-position: right center;
   z-index: -1;
 }
+
+/* ----------------------House On Fire Page----------------------- */
+
+.robabank-page {
+  background-image: url("/Assets/RetiredFromBankRobbery.jpg");
+  /* adjust path */
+  background-repeat: no-repeat;
+  background-size: 50% 100%;
+  position: relative;
+  background-position: right center;
+  z-index: -1;
+}
