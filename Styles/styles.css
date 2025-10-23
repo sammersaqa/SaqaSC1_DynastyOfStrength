@@ -35,7 +35,6 @@ body {
   border-radius: 8px;
   background-color: rgb(255, 187, 78);
 
-  /* transition: background-color 0.3s ease; */
 }
 
 .enterLink {
@@ -75,4 +74,19 @@ body {
   font-family: 'Helvetica Neue', sans-serif;
   box-shadow: 0 -5px 20px rgba(0, 0, 0, 0.6);
   z-index: 2;
+}
+
+.trainstation-page {
+  content: "";
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 1920px;
+  height: 1080px;
+  background-image: url("/Assets/TrainingImage.jpg"); /* adjust path */
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+  z-index: -1;
 }
