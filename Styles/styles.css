@@ -69,7 +69,6 @@ body {
   overflow-y: auto;  /* enables scrolling */
   background-color: rgba(0, 0, 0, 0.85);
   color: white;
-  
   font-size: 1.4rem;
   line-height: 1.6;
   font-family: 'Helvetica Neue', sans-serif;
