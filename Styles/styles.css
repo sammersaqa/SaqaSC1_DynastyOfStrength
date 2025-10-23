@@ -177,3 +177,13 @@ body {
   background-position: right center;
   z-index: -1;
 }
+
+.fire-page {
+  background-image: url("/Assets/BurningAlive.jpg");
+  /* adjust path */
+  background-repeat: no-repeat;
+  background-size: 50% 100%;
+  position: relative;
+  background-position: right center;
+  z-index: -1;
+}
