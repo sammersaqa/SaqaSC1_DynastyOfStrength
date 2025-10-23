@@ -70,7 +70,7 @@ body {
   color: white;
   font-size: 1.4rem;
   line-height: 1.6;
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family:monospace;
   box-shadow: 0 -5px 20px rgba(0, 0, 0, 0.6);
   z-index: 2;
 }
@@ -83,7 +83,7 @@ body {
   transform: translate(-50%, -50%);
   width: 1920px;
   height: 1080px;
-  background-image: url("/Assets/TrainingImage.jpg"); /* adjust path */
+  background-image: url("/Assets/TrainingatTrainYard.jpg"); /* adjust path */
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: center;
