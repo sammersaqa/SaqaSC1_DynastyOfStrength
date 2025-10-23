@@ -45,6 +45,11 @@ body {
   margin-bottom: 2.5%;
 }
 
+h1 {
+  font-family: monospace;
+  text-align: center;
+}
+
 /* <-------------------Factory Page---------------------------> */
 
 .factory-page {
