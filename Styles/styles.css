@@ -222,3 +222,12 @@ h1 {
     background-size: 50% 100%; 
     background-position: right center;
 }
+
+/* ----------------------Nuetral Ending----------------------- */
+
+.nuetral {
+    background-image: url("/Assets/nuetralendingBG.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+
+}
