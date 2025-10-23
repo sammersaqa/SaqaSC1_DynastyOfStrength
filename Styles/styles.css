@@ -26,11 +26,11 @@ body {
 
 /* Link to The Factory page */
 .factory-link {
-  font-size: 1rem;
+  font-size: 3rem;
   color: rgb(202, 5, 5);
   text-decoration: none;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  padding: 12px 100px;
+  padding: 20px 100px;
   border: 2px solid black;
   border-radius: 8px;
   background-color: rgb(255, 187, 78);
@@ -42,7 +42,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: flex-end;
-  margin-bottom: 10%;
+  margin-bottom: 2.5%;
 }
 
 /* <-------------------Factory Page---------------------------> */
