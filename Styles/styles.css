@@ -237,3 +237,12 @@ h1 {
     background-size: 100% 100%; 
 
 }
+
+/* ----------------------Bad Ending----------------------- */
+
+.bad {
+    background-image: url("/Assets/universalbadendingbg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+
+}
