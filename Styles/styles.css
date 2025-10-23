@@ -159,6 +159,18 @@ h1 {
     background-position: right center;
 }
 
+/* ----------------The Junk Yard Page------------------------ */
+
+.junkyard {
+    background-image: url("/Assets/TrainingatTrainYard.jpg");
+    background-repeat: no-repeat;
+    background-size: 50% 100%; 
+    background-position: right center;
+}
+
+
+
+
 
 
 /* ----------------Build a Death Ray Page------------------------ */
