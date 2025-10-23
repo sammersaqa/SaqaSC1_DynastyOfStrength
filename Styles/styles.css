@@ -125,6 +125,8 @@ body {
     background-size: 50% 100%; 
     background-position: right center;
 }
+
+/* ----------------Story Strip------------------------ */
 .pathstorystrip {
     position: fixed;
     left: 0;
@@ -151,23 +153,7 @@ body {
     background-size: 50% 100%; 
     background-position: right center;
 }
-.pathofevilstorystrip {
-    position: fixed;
-    left: 0;
-    width: 50%;
-    height: 100%;
-    overflow-y: auto; 
-    z-index: 2; 
-    background-color: rgba(0, 0, 0, 0.9); 
-    color: white;
-    font-size: 1.4rem;
-    line-height: 1.6;
-    font-family: monospace;
-    padding: 20px; 
-    box-shadow: 5px 0 20px rgba(0, 0, 0, 0.6);
-    scrollbar-color: rgb(202, 5, 5) rgb(255, 187, 78);
-  
-}
+
 
 
 /* ----------------Build a Death Ray Page------------------------ */
