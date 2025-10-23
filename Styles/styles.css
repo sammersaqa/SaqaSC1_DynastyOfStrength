@@ -45,6 +45,11 @@ body {
   margin-bottom: 2.5%;
 }
 
+h1 {
+  font-family: monospace;
+  text-align: center;
+}
+
 /* <-------------------Factory Page---------------------------> */
 
 .factory-page {
@@ -194,4 +199,15 @@ body {
     background-repeat: no-repeat;
     background-size: 50% 100%; 
     background-position: right center;
+}
+
+
+.fire-page {
+  background-image: url("/Assets/BurningAlive.jpg");
+  /* adjust path */
+  background-repeat: no-repeat;
+  background-size: 50% 100%;
+  position: relative;
+  background-position: right center;
+  z-index: -1;
 }
