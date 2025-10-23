@@ -116,3 +116,10 @@ body {
   margin-bottom: 20px;
   text-align: center;
 }
+
+
+.buttons {
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+}
