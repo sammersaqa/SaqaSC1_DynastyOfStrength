@@ -164,10 +164,6 @@ body {
 }
 
 
-
-
-
-
 /* ----------------Build a Death Ray Page------------------------ */
 
 .deathray-page {
@@ -188,4 +184,14 @@ body {
   position: relative;
   background-position: right center;
   z-index: -1;
+}
+
+
+/* ----------------------Stop the Car---------------------------- */
+
+.carstop {
+    background-image: url("/Assets/stopsthecarIMAGE.jpg");
+    background-repeat: no-repeat;
+    background-size: 50% 100%; 
+    background-position: right center;
 }
