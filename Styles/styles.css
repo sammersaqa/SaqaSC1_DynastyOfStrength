@@ -173,7 +173,6 @@ h1 {
 
 .deathray-page {
   background-image: url("/Assets/DeathrayBuiltImage.jpg");
-  /* adjust path */
   background-repeat: no-repeat;
   background-size: 50% 100%;
   position: relative;
@@ -183,7 +182,6 @@ h1 {
 
 .dontstopcar-page {
   background-image: url("/Assets/SavingDayUntilRetired\(nuetral-ending\).jpg");
-  /* adjust path */
   background-repeat: no-repeat;
   background-size: 50% 100%;
   position: relative;
@@ -206,7 +204,6 @@ h1 {
 
 .fire-page {
   background-image: url("/Assets/BurningAlive.jpg");
-  /* adjust path */
   background-repeat: no-repeat;
   background-size: 50% 100%;
   position: relative;
