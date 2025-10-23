@@ -25,7 +25,7 @@ body {
 }
 
 /* Link to The Factory page */
-.factory-link {
+.link {
   font-size: 3rem;
   color: rgb(202, 5, 5);
   text-decoration: none;
@@ -34,10 +34,11 @@ body {
   border: 2px solid black;
   border-radius: 8px;
   background-color: rgb(255, 187, 78);
+  text-shadow: black 1px 2px;
 
 }
 
-.enterLink {
+.linkDiv {
   display: flex;
   justify-content: center;
   align-items: flex-end;
