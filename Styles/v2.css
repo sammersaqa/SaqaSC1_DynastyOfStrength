@@ -42,9 +42,6 @@ body {
     width: 50%;
     height: 100%;
     padding: 50px;
-    overflow-y: auto;
-    scrollbar-color: #ca0505 #ffbb4e;
-    scrollbar-width: thin;
     color: black;
     font-family: monospace;
     font-size: 1rem;
@@ -93,5 +90,10 @@ img {
 }
 
 .textbox {
-    padding: 15%;
+    width: 95%;
+    height: 85%;
+    margin-top: 15%;
+    overflow-y: auto;
+    scrollbar-color: #ca0505 #ffbb4e;
+    scrollbar-width: thin;
 }
