@@ -12,4 +12,4 @@ We created an interactive digital storyline where the user's choices determine t
 
 ## Peer Review
 
-- TODO
+- Brandon Estrada - Your project is so well done. You guys were so creative with this and looks very professional. This looks like something a small indie comic book company would publish. I love the theme, story, and images you guys used. Amazing work!
