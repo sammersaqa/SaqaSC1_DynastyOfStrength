@@ -6,6 +6,13 @@ body {
     background-color: black;
 }
 
+.stretch {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
 .splash {
     width: 100%;
     height: 100%;
@@ -20,12 +27,6 @@ body {
     object-fit: contain;
 }
 
-.back-splash {
-    width: 100%;
-    height: 100%;
-    object-fit: fill;
-}
-
 .splash div {
     position: fixed;
     bottom: 10%;
@@ -34,7 +35,7 @@ body {
 }
 
 .story-strip {
-  background-image: url("/Assets/Blue\ Colorful\ Retro\ Comic\ Blank\ Notes\ A4\ Document\ .png");
+    background-image: linear-gradient(to bottom right, #ca0505, #ffbb4e);
     background-size: cover;
     position: fixed;
     left: 0;
@@ -84,10 +85,4 @@ img {
     right: 0;
     width: 50%;
     height: 100%;
-}
-
-.end
-{
-    font-size: 3rem;
-    text-align: center;
 }
