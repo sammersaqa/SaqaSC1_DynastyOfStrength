@@ -34,12 +34,13 @@ body {
 }
 
 .story-strip {
-  background-image: linear-gradient(to bottom right, #ca0505, #ffbb4e);
+  background-image: url("/Assets/Blue\ Colorful\ Retro\ Comic\ Blank\ Notes\ A4\ Document\ .png");
     background-size: cover;
     position: fixed;
     left: 0;
     width: 50%;
     height: 100%;
+    padding: 50px;
     overflow-y: auto;
     scrollbar-color: #ca0505 #ffbb4e;
     scrollbar-width: thin;
