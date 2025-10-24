@@ -245,7 +245,7 @@ h1 {
 /* ----------------------Neutral Ending----------------------- */
 
 .neutral {
-    background-image: url("/Assets/end-neutral.jpg");
+    background-image: url("/Assets/neutral-ending_USE_THIS_ONE.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%; 
 
@@ -254,7 +254,7 @@ h1 {
 /* ----------------------Good Ending----------------------- */
 
 .good {
-    background-image: url("/Assets/end-good.png");
+    background-image: url("/Assets/Good-ENDING_BG_USE\ THIS\ ONE.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%; 
 
@@ -263,7 +263,7 @@ h1 {
 /* ----------------------Bad Ending----------------------- */
 
 .bad {
-    background-image: url("/Assets/end-bad.jpg");
+    background-image: url("/Assets/bad-ending_USE_THIS\ ONE.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%; 
 
