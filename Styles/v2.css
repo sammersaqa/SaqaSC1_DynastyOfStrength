@@ -35,7 +35,7 @@ body {
 }
 
 .story-strip {
-    background-image: linear-gradient(to bottom right, #ca0505, #ffbb4e);
+    background-image: url("/Assets/story-strip.png");
     background-size: cover;
     position: fixed;
     left: 0;
@@ -72,7 +72,7 @@ a {
     border: 2px solid black;
     border-radius: 20px;
     background-color: #ffbb4e;
-    padding: 20px 100px;
+    padding: 2rem;
     color: #ca0505;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 3rem;
@@ -87,13 +87,11 @@ img {
     height: 100%;
 }
 
-.end
-{
+.end {
     font-size: 3rem;
     text-align: center;
 }
 
-.textbox
-{
+.textbox {
     padding: 15%;
 }
