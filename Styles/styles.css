@@ -52,15 +52,14 @@ h1 {
 
 /* <-------------------Factory Page---------------------------> */
 
-.factory-page {
+/* .factory-page {
   background-image: url("/Assets/factory.jpg");
-  /* adjust path */
   background-repeat: no-repeat;
   background-size: 50% 100%;
   position: relative;
   background-position: right center;
   z-index: -1;
-}
+} */
 
 .story-strip {
   position: fixed;
@@ -80,6 +79,20 @@ h1 {
   box-shadow: 0 -5px 20px rgba(0, 0, 0, 0.6);
   z-index: 2;
 }
+
+.image-strip {
+  position: fixed;
+  right: 0;
+  width: 50%;
+  height: 100%;
+}
+
+.buttons {
+  padding: 5% 0%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
 /* ---------------Training Train Station------------------------- */
 
 .trainstation-layout {
