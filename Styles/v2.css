@@ -91,3 +91,8 @@ img {
     font-size: 3rem;
     text-align: center;
 }
+
+.textbox
+{
+    padding: 15%;
+}
