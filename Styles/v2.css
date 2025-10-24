@@ -28,15 +28,16 @@ body {
 }
 
 .story-strip {
+  background-image: linear-gradient(to bottom right, #ca0505, #ffbb4e);
+    background-size: cover;
     position: fixed;
     left: 0;
     width: 50%;
     height: 100%;
-    background-color: black;
     overflow-y: auto;
     scrollbar-color: #ca0505 #ffbb4e;
     scrollbar-width: thin;
-    color: white;
+    color: black;
     font-family: monospace;
     font-size: 1rem;
     box-shadow: 0 -5px 20px #00000099;
